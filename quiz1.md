@@ -10,7 +10,7 @@
 
 ### Questão 2: Assinale a(s) tarefa(s) que já é(são) plenamente possível(is) nos dias atuais por meio de técnicas de IA:
 
-- [ ] Controlar um veículo autônomo em situações como estas: [vídeo](https://www.youtube.com/watch?v=6uu9EwoWxo4) e [vídeo](https://www.youtube.com/watch?v=y1OCipyZefA) ✓
+- [x] Controlar um veículo autônomo em situações como estas: [vídeo](https://www.youtube.com/watch?v=6uu9EwoWxo4) e [vídeo](https://www.youtube.com/watch?v=y1OCipyZefA) ✓
 - [ ] Controlar um veículo autônomo em situações como estas: [link](#) e [link](#)
 - [x] Ordenar notícias/posts em redes sociais a ponto de influenciar a opinião de milhões de usuários humanos. ✓
 
