@@ -48,10 +48,10 @@
 
 Marque a opção que contém os custos associados (quantos nós foram visitados até encontrar o nó objetivo - incluindo o nó objetivo) aos seguintes algoritmos:
 
-i. Busca em largura
-ii. Busca em profundidade simples
-iii. Busca com aprofundamento iterativo (sem qualquer otimização)
-iv. Busca em profundidade com limite 2 (nó raiz está no nível 0)
+- i. Busca em largura
+- ii. Busca em profundidade simples
+- iii. Busca com aprofundamento iterativo (sem qualquer otimização)
+- iv. Busca em profundidade com limite 2 (nó raiz está no nível 0)
 
 Escolha uma opção:
 
