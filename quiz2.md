@@ -1,4 +1,4 @@
-# Quiz 1
+# Quiz 2
 
 ### Questão 1: Quanto a racionalidade do agente intelitgente, podemos afirmar que:
 
