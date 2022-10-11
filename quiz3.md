@@ -63,8 +63,8 @@
 
 ![questao 9](./imgs/quiz3_img5.png)
 
-- [ ] Sequencial
-- [x] Episódico ✓
+- [x] Sequencial ✓
+- [ ] Episódico
 
 ### Questão 10: Associe as seguintes afirmações a cada tipo de agente:
 
